@@ -1,1 +1,3 @@
-The element p (paragraph) is the appropriate one to distribute the text in paragraphs. Its tags are: <p> and </p> (the closing one is optional).
+The element p (paragraph) is 
+the appropriate one to distribute the text in paragraphs.
+Its tags are: <p> and </p>.
